@@ -1,0 +1,4 @@
+﻿  Ant+_Testing_Project.cpp
+Ant+_Testing_Project.obj : error LNK2019: unresolved external symbol DSIThread_CondInit referenced in function main
+D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\dependencies\ANT_LIB.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\x64\Debug\Ant+_Testing_Project.exe : fatal error LNK1120: 1 unresolved externals

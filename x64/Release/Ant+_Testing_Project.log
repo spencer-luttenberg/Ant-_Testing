@@ -1,0 +1,10 @@
+﻿  ant_main_helper.cpp
+D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\ant_main_helper.cpp(67,26): warning C4244: '=': conversion from 'unsigned short' to 'unsigned char', possible loss of data
+D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\ant_main_helper.cpp(68,34): warning C4305: '=': truncation from 'int' to 'unsigned char'
+D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\ant_main_helper.cpp(68,30): warning C4309: '=': truncation of constant value
+  Generating code
+  0 of 914 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Ant+_Testing_Project.vcxproj -> D:\C++_Testing\Heart_Rate_Game\Ant+_Testing\Ant+_Testing_Project\x64\Release\Ant+_Testing_Project.exe
