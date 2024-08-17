@@ -415,10 +415,10 @@ void MyANTrxService::ProcessMessage(ANT_MESSAGE stMessage, USHORT usSize_)
 			{
 			case EVENT_CHANNEL_CLOSED:
 			{
-				printf("Channel %u Closed\n", stMessage.aucData[0]);
+				//printf("Channel %u Closed\n", stMessage.aucData[0]);
 				//printf("Unassigning channel...\n");
 				//bStatus = pclMessageObject->UnAssignChannel(ucAntChannel, MESSAGE_TIMEOUT);
-				printf("Re-opening channel %u ...\n", stMessage.aucData[0]);
+				//printf("Re-opening channel %u ...\n", stMessage.aucData[0]);
 				bStatus = pclMessageObject->OpenChannel(stMessage.aucData[0], MESSAGE_TIMEOUT);
 				break;
 			}
